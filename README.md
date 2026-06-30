@@ -25,14 +25,14 @@ $ python3 Xghost.py
 - **Last**: Automatic tools perform scanning and look for security vulnerabilities and suitable attacks to carry out.
 
 # Feature
-| Scanning feature |  |
+| Scanning feature | ⚡ |
 |--------|--------|
-| **EXTRACTING TARGET INTELLIGENCE** |  |
-| **SUBDOMAIN SCANNING & HTTP CHECK** |  |
-| **DIRECTORY BRUTEFORCE** |  |
-| **SECURITY AUDIT ON FORMS** |  |
-| **PARAMETER VULNERABILITY TESTING** |  |
-| **PENTESTING STRATEGY** |  |
+| **EXTRACTING TARGET INTELLIGENCE** | ✔️ |
+| **SUBDOMAIN SCANNING & HTTP CHECK** | ✔️ |
+| **DIRECTORY BRUTEFORCE** | ✔️ |
+| **SECURITY AUDIT ON FORMS** | ✔️ |
+| **PARAMETER VULNERABILITY TESTING** | ✔️ |
+| **PENTESTING STRATEGY** | ✔️ |
 ---------
 
 ## Observation
